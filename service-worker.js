@@ -17,7 +17,7 @@ importScripts(
   "/precache-manifest.51ec1d17e565e44db8a0aa0a6869866b.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "hexo-theme-amber"});
+workbox.core.setCacheNameDetails({prefix: "Buddha Drahma Sangga"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
